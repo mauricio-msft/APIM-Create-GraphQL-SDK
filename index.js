@@ -64,6 +64,7 @@ async function createApiSchema(){
     let resourceGroupName = "<resourceGroupName>";
     let serviceName = "<apimServiceName>";
     let apiId = "<apiId>";
+    let schemaId = "graphql";
 
     //construct api properties
     let apiProperties = {
